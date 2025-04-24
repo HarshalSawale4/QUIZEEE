@@ -1,13 +1,6 @@
 # Quiz Project
 
 
-## Team Members:
-1. **Harshal Sawale**
-2. **Sanket Jagtap**
-3. **Sanchit Thakre**
-4. **Siddhant Hargude**
-
-
 ## Project Description:
 
 This project is a simple, interactive quiz application that allows users to take a quiz with multiple-choice questions. It is built using **HTML**, **CSS**, and **JavaScript** for the front-end development and UI/UX design. The goal of this project is to provide an engaging and visually appealing user experience.
