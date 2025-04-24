@@ -1,7 +1,5 @@
 # Quiz Project
 
-## Team Leader:
-**Sai Patil**
 
 ## Team Members:
 1. **Harshal Sawale**
@@ -9,25 +7,6 @@
 3. **Sanchit Thakre**
 4. **Siddhant Hargude**
 
-## Team Contribution:
-
-- **Sai Patil**: 
-  - Project Manager.
-  - Frontend Developer, responsible for building the user interface using **HTML** and **CSS**.
-
-- **Harshal Sawale**: 
-  - Frontend Developer, assisted in creating and styling the user interface with **HTML** and **CSS**.
-
-- **Sanket Jagtap**: 
-  - JavaScript Developer, responsible for adding dynamic functionality and interactivity to the quiz using **JavaScript**.
-
-- **Sanchit Thakre**: 
-  - Frontend Developer, helped design and implement the frontend features using **HTML** and **CSS**.
-
-- **Siddhant Hargude**: 
-  - UI/UX Designer, created the **Figma** layout for the project and ensured the design was user-friendly and visually appealing.
-
----
 
 ## Project Description:
 
